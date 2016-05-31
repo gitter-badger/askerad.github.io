@@ -1,0 +1,48 @@
+body
+{
+	font-family: 'sarala';
+	background-color: #CCCCCC;
+}
+
+h1, h2, h3
+{
+	font-family: 'noto serif';
+	font-style: oblique;
+	font-weight: 700;
+}
+
+header h1
+{
+	margin: 0;
+	padding: 15px;
+	color : #CCCCCC;
+	display: inline-block;
+}
+
+header
+{
+	background-image: url("../images/untitled.png");
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+nav ul li
+{
+	display: inline-block;
+	padding: 15px;
+	background-color: #151515;
+	color : #CCCCCC;
+}
+
+nav
+{
+	background-color: #151515;
+	box-shadow: 0px 5px 5px;
+}
+
+.content
+{
+	background-color : white;
+	box-shadow: 5px 5px 5px;
+}
